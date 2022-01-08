@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Perseverance-Git",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -58,7 +58,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "8ovieagir4",
+    "mbrsiteDomain": "s06uhf2a81",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -95,7 +95,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/perseverance-260x320.jpg"
       },
       "components": [
         {
